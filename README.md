@@ -8,5 +8,5 @@ Tailwind CSS.
 
 ---
 
-![Screenshot of Example Resume](https://github.com/cmpadden/vue-tailwind-resume/blob/master/example-resume-screenshot.jpg?raw=true)
+![Screenshot of Example Resume](https://github.com/cmpadden/vue-tailwind-resume/blob/master/example-resume-screenshot.png?raw=true)
 
